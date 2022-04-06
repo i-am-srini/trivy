@@ -1,1 +1,1 @@
-# triv
+# trivy
