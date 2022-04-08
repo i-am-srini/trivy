@@ -1,1 +1,1 @@
-# tri
+# trivy
